@@ -1,7 +1,7 @@
 # The Hexagonal Online Store
 Your favorite one-stop shop for things you don't need: your first visit will be the last one. 😆
 
-If you wish to test it, please let me know at fernando.mashimo@gmail.com and I will provide access.
+This app has been deployed using AWS CDK. If you wish to test it, please let me know at fernando.mashimo@gmail.com.
 
 **UPDATE March 17th, 2025:** Set a more readable, human-friendly custom domain for the API.
 
